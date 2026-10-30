@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="186" viewBox="0 0 1000 186">
+<style>
+  .blink { animation: blink 1.6s steps(2, start) infinite; }
+  @keyframes blink { 50% { opacity: 0.25; } }
+</style>
+<rect width="1000" height="186" rx="12" fill="#020b14"/>
+<rect x="0.5" y="0.5" width="999" height="185" rx="12" fill="none" stroke="#0a3a52"/>
+<rect x="0" y="0" width="1000" height="40" rx="12" fill="#04131f"/>
+<rect x="0" y="28" width="1000" height="12" fill="#04131f"/>
+<text x="30" y="26" font-family="Courier New, Consolas, monospace" font-size="14" fill="#00e5ff" letter-spacing="3">▸ ACTIVE.PROCESSES</text>
+<text x="970" y="26" text-anchor="end" font-family="Courier New, Consolas, monospace" font-size="12" fill="#4f8aa3" letter-spacing="3">3 RUNNING</text>
+<line x1="30" y1="58" x2="970" y2="58" stroke="#0a3a52" stroke-width="1" opacity="0.7"/><circle class="blink" cx="44" cy="77" r="4" fill="#00e5ff" style="animation-delay:0.0s"/><text x="60" y="82" font-family="Courier New, Consolas, monospace" font-size="13" fill="#4f8aa3" letter-spacing="2">[01]</text><text x="140" y="82" font-family="Courier New, Consolas, monospace" font-size="15" fill="#cfefff">Linux kernel internals and OS fundamentals</text><line x1="30" y1="96" x2="970" y2="96" stroke="#0a3a52" stroke-width="1" opacity="0.7"/><circle class="blink" cx="44" cy="115" r="4" fill="#00e5ff" style="animation-delay:0.4s"/><text x="60" y="120" font-family="Courier New, Consolas, monospace" font-size="13" fill="#4f8aa3" letter-spacing="2">[02]</text><text x="140" y="120" font-family="Courier New, Consolas, monospace" font-size="15" fill="#cfefff">Deep learning: training and deploying real models, not just tutorials</text><line x1="30" y1="134" x2="970" y2="134" stroke="#0a3a52" stroke-width="1" opacity="0.7"/><circle class="blink" cx="44" cy="153" r="4" fill="#00e5ff" style="animation-delay:0.8s"/><text x="60" y="158" font-family="Courier New, Consolas, monospace" font-size="13" fill="#4f8aa3" letter-spacing="2">[03]</text><text x="140" y="158" font-family="Courier New, Consolas, monospace" font-size="15" fill="#cfefff">Small tools that make other developers' lives easier</text>
+<path d="M8 30 V8 H30 M970 8 H992 V30 M992 156 V178 H970 M30 178 H8 V156" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.9"/>
+</svg>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="26" viewBox="0 0 172 26">
+<rect width="172" height="26" rx="4" fill="#04131f"/>
+<rect x="0.5" y="0.5" width="171" height="25" rx="4" fill="none" stroke="#0a3a52"/>
+<text x="12" y="17" font-family="Courier New, Consolas, monospace" font-size="12" fill="#00e5ff" letter-spacing="3">▸ WEB / BACKEND</text>
+</svg>
